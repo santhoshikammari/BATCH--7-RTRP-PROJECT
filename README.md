@@ -87,4 +87,4 @@ This project was developed as part of **RTRP (Real-Time Research Project)** for 
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/your-username/iot-occupancy-monitoring
+https://github.com/santhoshikammari/iot-occupancy-monitoring

@@ -1,1 +1,20 @@
-projectsfactoryserver.in/tableviewnew.php https://projectsfactoryserver.in/tableviewnew.php
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Live Project</title>
+</head>
+<body style="text-align:center; margin-top:100px; font-family:Arial;">
+
+```
+<h2>🚀 IoT Occupancy Monitoring</h2>
+
+<a href="https://projectsfactoryserver.in/tableviewnew.php" target="_blank">
+    <button style="padding:15px 30px; font-size:18px; background:green; color:white; border:none; border-radius:6px;">
+        View Live Output
+    </button>
+</a>
+```
+
+</body>
+</html>
